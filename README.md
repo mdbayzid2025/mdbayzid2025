@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co.com/bMKnBVdr/banner.jpg)](https://github.com/mdbayzid2025)
+[![MasterHead]([https://i.ibb.co.com/bMKnBVdr/banner.jpg](https://i.ibb.co/jWb1pWK/Github-Banner-2.png))](https://github.com/mdbayzid2025)
 
 
 # 💫 About Me:
