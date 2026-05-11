@@ -249,10 +249,10 @@ Explore my YouTube playlist featuring tutorials and insights that I’ve persona
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssmdbayzid&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ssmdbayzid&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/ssmdbayzid?style=social" alt="Followers" />
-</p>
+</p> -->
 
 ---
 
