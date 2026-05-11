@@ -209,22 +209,6 @@ I am continuously exploring modern software engineering practices and improving 
 
 </p>
 
----
-
-## 📺 **Vlog Journal**
-
-Explore my YouTube playlist featuring tutorials and insights that I’ve personally developed:
-
-<!-- <div align="center">
-  <a href="https://www.youtube.com/playlist?list=PLrK96wPWZofvWkhdnObK7HyEQtEMRobXK" target="_blank">
-    <img src="https://img.shields.io/badge/My-Tutorial-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Playlist">
-  </a>
-</div> -->
-
-- 📖 [Full Stack Development Tutorials](https://www.youtube.com/playlist?list=PLrK96wPWZofvWkhdnObK7HyEQtEMRobXK)
-
----
-
 
 ## 🌐 **Let's Connect**
 
@@ -263,7 +247,6 @@ Explore my YouTube playlist featuring tutorials and insights that I’ve persona
 
 ---
 
-_Last updated on: `2025-09-06 12:42:32 UTC`
 
 <!--
 <p> <img src="https://img.shields.io/github/followers/TonmoyTalukder?style=social" alt="TonmoyTalukder" /> </p> -->
