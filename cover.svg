@@ -1,0 +1,74 @@
+<svg width="1500" height="500" viewBox="0 0 1500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1500" height="500" fill="url(#bg)"/>
+
+  <!-- Background Glow -->
+  <circle cx="220" cy="250" r="180" fill="#2563EB" opacity="0.18" filter="url(#blur)"/>
+  <circle cx="1280" cy="120" r="160" fill="#8B5CF6" opacity="0.18" filter="url(#blur)"/>
+
+  <!-- Left Decorative Circle -->
+  <circle cx="130" cy="250" r="180" stroke="#3B82F6" stroke-width="1" opacity="0.35"/>
+  <circle cx="130" cy="250" r="120" stroke="#8B5CF6" stroke-width="1" opacity="0.25"/>
+
+  <!-- Right Grid -->
+  <g opacity="0.08">
+    <path d="M1180 80H1450" stroke="#FFFFFF"/>
+    <path d="M1180 120H1450" stroke="#FFFFFF"/>
+    <path d="M1180 160H1450" stroke="#FFFFFF"/>
+    <path d="M1180 200H1450" stroke="#FFFFFF"/>
+    <path d="M1180 240H1450" stroke="#FFFFFF"/>
+    <path d="M1180 280H1450" stroke="#FFFFFF"/>
+
+    <path d="M1180 80V320" stroke="#FFFFFF"/>
+    <path d="M1220 80V320" stroke="#FFFFFF"/>
+    <path d="M1260 80V320" stroke="#FFFFFF"/>
+    <path d="M1300 80V320" stroke="#FFFFFF"/>
+    <path d="M1340 80V320" stroke="#FFFFFF"/>
+    <path d="M1380 80V320" stroke="#FFFFFF"/>
+  </g>
+
+  <!-- Code Icon -->
+  <text x="750" y="90" text-anchor="middle" fill="#7C8CFF" font-size="40" font-family="monospace">&lt;/&gt;</text>
+
+  <!-- Name -->
+  <text x="750" y="210" text-anchor="middle" fill="url(#textGrad)" font-size="88" font-weight="700" font-family="Segoe UI, Arial, sans-serif">
+    S S MD. BAYZID
+  </text>
+
+  <!-- Role -->
+  <text x="750" y="285" text-anchor="middle" fill="#4DA3FF" font-size="38" letter-spacing="8" font-weight="600" font-family="Segoe UI, Arial, sans-serif">
+    FULL-STACK DEVELOPER
+  </text>
+
+  <!-- Skills -->
+  <text x="750" y="345" text-anchor="middle" fill="#D1D5DB" font-size="26" font-family="Segoe UI, Arial, sans-serif">
+    React  •  Next.js  •  Tailwind CSS  •  Node.js  •  Express.js  •  MongoDB
+  </text>
+
+  <!-- Contact Box -->
+  <rect x="400" y="390" width="700" height="58" rx="30" fill="#0B122E" stroke="url(#lineGrad)" stroke-width="2"/>
+
+  <text x="470" y="427" fill="#FFFFFF" font-size="22" font-family="Segoe UI, Arial, sans-serif">
+    ✉ ssmdbayzid23@gmail.com
+  </text>
+
+  <text x="870" y="427" fill="#FFFFFF" font-size="22" font-family="Segoe UI, Arial, sans-serif">
+    🌐 md-bayzid.vercel.app
+  </text>
+
+  <!-- Decorative Dots -->
+  <g fill="#8B5CF6" opacity="0.7">
+    <circle cx="70" cy="70" r="4"/>
+    <circle cx="95" cy="70" r="4"/>
+    <circle cx="120" cy="70" r="4"/>
+    <circle cx="145" cy="70" r="4"/>
+
+    <circle cx="70" cy="95" r="4"/>
+    <circle cx="95" cy="95" r="4"/>
+    <circle cx="120" cy="95" r="4"/>
+    <circle cx="145" cy="95" r="4"/>
+  </g>
+
+  <!-- Bottom Accent Lines -->
+  <path d="M0 470C150 420 300 520 450 470" stroke="url(#lineGrad)" stroke-width="2" opacity="0.5"/>
+  <path d="M1050 470C1200 420 1350 520 1500 470" stroke="url(#lineGrad)" stroke-width="2" opacity="0.5"/>
+</svg>
